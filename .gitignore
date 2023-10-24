@@ -2,3 +2,6 @@ pdf_extractor/
 .ipynb_checkpoints/
 Data/
 KULLM/
+H01L_2020-2022_9585_claims.pickle
+H01L_2020-2022_9585_descriptions.pickle
+H01L_2020-2022_9585_df.csv
