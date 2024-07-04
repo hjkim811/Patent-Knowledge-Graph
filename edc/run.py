@@ -8,7 +8,7 @@ if __name__ == "__main__":
     parser = ArgumentParser()
     # OIE module setting
     parser.add_argument(
-        "--oie_llm", default="mistralai/Mistral-7B-Instruct-v0.2", help="LLM used for open information extraction."
+        "--oie_llm", default="gpt-3.5-turbo", help="LLM used for open information extraction."
     )
     parser.add_argument(
         "--oie_prompt_template_file_path",
@@ -23,7 +23,7 @@ if __name__ == "__main__":
 
     # Schema Definition setting
     parser.add_argument(
-        "--sd_llm", default="mistralai/Mistral-7B-Instruct-v0.2", help="LLM used for schema definition."
+        "--sd_llm", default="gpt-3.5-turbo", help="LLM used for schema definition."
     )
     parser.add_argument(
         "--sd_prompt_template_file_path",
@@ -39,7 +39,7 @@ if __name__ == "__main__":
     # Schema Canonicalization setting
     parser.add_argument(
         "--sc_llm",
-        default="mistralai/Mistral-7B-Instruct-v0.2",
+        default="gpt-3.5-turbo",
         help="LLM used for schema canonicaliztion verification.",
     )
     parser.add_argument(
@@ -61,7 +61,7 @@ if __name__ == "__main__":
         help="Few shot examples used for refined open information extraction.",
     )
     parser.add_argument(
-        "--ee_llm", default="mistralai/Mistral-7B-Instruct-v0.2", help="LLM used for entity extraction."
+        "--ee_llm", default="gpt-3.5-turbo", help="LLM used for entity extraction."
     )
     parser.add_argument(
         "--ee_prompt_template_file_path",
