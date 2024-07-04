@@ -1,0 +1,23 @@
+Example 1:
+Text: The ScAlN etch mask is chemically nonvolatile in fluorine-based etch chemistries and has a low sputter yield, resulting in greater etch mask selectivity and reduced surface roughness for silicon and other semiconductor materials.
+Triplets: [['ScAlN etch mask', 'have', 'nonvolatile'], ['ScAlN etch mask', 'have', 'sputter yield'], ['ScAlN etch mask', 'enhance', 'etch mask selectivity'], ['ScAlN etch mask', 'diminish', 'surface roughness']]
+
+Example 2:
+Text: The contamination detection system is configured to determine whether a contamination level on a surface of the door is greater than a baseline level.
+Triplets: [['contamination detection system', 'used_for', 'contamination level'], ['contamination level', 'greater_than', 'baseline level']]
+
+Example 3:
+Text: Thereby, reliable conducting paths are formed between intermediate layers within the ROI and a base layer, and stray current paths extending outside the ROI are eliminated, providing better quality etch progress monitoring, during subsequent etching, from body or scattered currents.
+Triplets: [['conducting paths', 'located_in', 'intermediate layers'], ['conducting paths', 'located_in', 'ROI'], ['intermediate layers', 'located_in', 'ROI'], ['conducting paths', 'located_in', 'base layer'], ['stray current paths', 'removed_from', 'body'], ['stray current paths', 'removed_from', 'scattered currents'], ['stray current paths', 'enhance', 'etch progress monitoring']]
+
+Example 4:
+Text: Aluminum oxide films characterized by a dielectric constant (k) of less than about 7 (such as between about 4-6) and having a density of at least about 2.5 g/cm3 (such as about 3.0-3.2 g/cm3) are deposited on partially fabricated semiconductor devices over both metal and dielectric to serve as etch stop layers.
+Triplets: [['Aluminum oxide films', 'have', 'dielectric constant'], ['Aluminum oxide films', 'have', 'density'], ['Aluminum oxide films', 'located_on', 'partially fabricated semiconductor devices'], ['metal', 'form', 'partially fabricated semiconductor devices'], ['dielectric', 'form', 'partially fabricated semiconductor devices'], ['Aluminum oxide films', 'used_for', 'etch stop layers']]
+
+Example 5:
+Text: A unique Integrated Circuit (IC) die ejection head assembly system is described, which utilizes Three-Dimensional (3D) printing to achieve very high resolution manufacturing to meet the precision tolerances required for very small IC die sizes.
+Triplets: [['Three-Dimensional (3D) printing', 'used_for', 'Integrated Circuit (IC) die ejection head assembly system'], ['Three-Dimensional (3D) printing', 'used_for', 'high resolution manufacturing']]
+
+Example 6:
+Text: The exhaust cooling apparatus includes at least one cooling plate a device for introducing turbulence to the exhaust flowing within the exhaust cooling apparatus.
+Triplets: [['cooling plate', 'included_in', 'exhaust cooling apparatus'], ['cooling plate', 'used_for', 'turbulence']]
