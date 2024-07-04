@@ -1,0 +1,10 @@
+A fabrication process employing the use of ScAlN as an etch mask is disclosed.
+The ScAlN etch mask is chemically nonvolatile in fluorine-based etch chemistries and has a low sputter yield, resulting in greater etch mask selectivity and reduced surface roughness for silicon and other semiconductor materials.
+The ScAlN etch mask has an etch mask selectivity of greater than 200,000:1 relative to silicon compared to an etch mask selectivity of less than 40,000:1 for a prior art AlN etch mask relative to silicon.
+Further, due to reduced sputtering of the ScAlN etch mask, and thus reduced micromasking, the ScAlN etch mask yielded a surface roughness of 0.6 μm compared to a surface roughness of 2.8 μm for an AlN etch mask.
+The present disclosure relates to a contamination controlled semiconductor processing system.
+The contamination controlled semiconductor processing system includes a processing chamber, a contamination detection system, and a contamination removal system.
+The processing chamber is configured to process a wafer.
+The contamination detection system is configured to determine whether a contamination level on a surface of the door is greater than a baseline level.
+The contamination removal system is configured to remove contaminants from the surface of the door in response to the contamination level being greater than the baseline level.
+Apparatus and methods are disclosed for sample preparation, suitable for online or offline use with multilayer samples.

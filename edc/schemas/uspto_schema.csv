@@ -1,0 +1,14 @@
+form,The subject entity constitutes or makes up a part of the object entity.
+formed,"The subject entity is created, developed, or takes shape within, on, or along the object entity, indicating that the subject entity originates or exists as a result of a process involving the object entity."
+included_in,The subject entity is a part or component of the object entity.
+used_for,"The subject entity is utilized for the purpose of measuring, detecting, or evaluating the object entity."
+removed_from,The subject entity is eliminated or taken away from the area or condition specified by the object entity.
+located_on,The subject entity is deposited or situated on the surface of the object entity.
+located_in,The subject entity is situated or found within the area or layer specified by the object entity.
+provided_with,The subject entity is equipped or endowed with the characteristic or feature specified by the object entity.
+caused_by,The subject entity is generated or induced by the action or presence of the object entity.
+enhance,The subject entity improves or increases the quality or degree of the object entity.
+diminish,The subject entity reduces or lessens the quality or degree of the object entity.
+greater_than,The subject entity exceeds or is more than the quantity or level specified by the object entity.
+have,The subject entity possesses or exhibits the characteristic or property specified by the object entity.
+connected_to,The subject entity is linked or attached to the object entity.
